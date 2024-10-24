@@ -29,14 +29,14 @@ document.addEventListener("DOMContentLoaded", () => {
   const lightLogos = {
     github: "assets/github_light.png",
     linkedin: "assets/linkedin_light.png",
-    email: "assets/what_ligth.png",
+    email: "assets/insta.png",
     theme: "assets/theme_light.png",
   };
 
   const darkLogos = {
     github: "assets/github_dark.png",
     linkedin: "assets/linkedin_dark.png",
-    email: "assets/what_dark.png",
+    email: "assets/insta_dark.png",
     theme: "assets/theme_dark.png",
   };
 
